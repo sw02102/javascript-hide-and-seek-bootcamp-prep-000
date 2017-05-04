@@ -15,4 +15,5 @@ function increaseRankBy(n){
   liss[i] = lis[i].parseInt+n;
   lis[i].innerHTML = liss[i].toString()
   }
+  
 }
